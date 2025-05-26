@@ -1,3 +1,7 @@
+#Laura Suzuki
+
+Estudo engenharia de software na PUC-Campinas e compartilho aqui meus projetos acadêmicos.
+
 <p>
   <img 
     align="left" 
